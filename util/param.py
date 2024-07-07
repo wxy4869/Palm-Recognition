@@ -1,0 +1,2 @@
+K_FOLD = 5
+N_NEIGHBORS = 1

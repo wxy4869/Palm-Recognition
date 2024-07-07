@@ -1,0 +1,10 @@
+/.idea/
+/.VSCodeCounter/
+/dataset/
+/log/
+/result/
+
+none.ipynb
+none.py
+
+**/.DS_Store
